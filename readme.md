@@ -4,7 +4,7 @@ Additional sources:
 - https://www.worldometers.info/coronavirus/  
 - who.int
 
-# of Cases (Canada):
+No. of Cases (Canada):
 2020-03-01: 20
 2020-03-02: 24
 2020-03-03: 
