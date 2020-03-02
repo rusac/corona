@@ -5,6 +5,9 @@ Additional sources:
 - who.int
 
 No. of Cases (Canada):  
+
+2020-02-28: 15  
+2020-02-29: 20  
 2020-03-01: 20  
 2020-03-02: 24  
 2020-03-03:   
