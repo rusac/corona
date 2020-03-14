@@ -47,6 +47,8 @@ Data from 2020-03-13 and forward taken from worldometers.info since JH website n
 
 
 
+Historical Resources:  
 
+- [Influenza Archive - Spanish Flu 1918](https://www.influenzaarchive.org/)
 
 
