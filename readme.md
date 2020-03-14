@@ -22,6 +22,7 @@ No. of Cases (Canada):
 2020-03-11: 101  
 2020-03-12: 117  
 2020-03-13: 158   
+2020-03-14: 193  
 
 
 
@@ -40,10 +41,12 @@ No. of Cases (US):
 2020-03-11: 1276   
 2020-03-12: 1323  
 2020-03-13: 2045  
+2020-03-14: 2174  
 
 
 
-Data from 2020-03-13 and forward taken from worldometers.info since JH website not updating on home computer.
+
+Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
 
 
 
