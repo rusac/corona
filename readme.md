@@ -45,6 +45,11 @@ No. of Cases (US):
 2020-03-14: 2174  
 2020-03-15: 2952  
 
+No. of Cases (Mexico):  
+2020-03-15: 41 (Mexico held large [music festival](https://apnews.com/96c71c1f4bd4c202d1d06e00b9f36d51) on the 14th)  
+2020-03-16: 
+
+
 
 
 Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
