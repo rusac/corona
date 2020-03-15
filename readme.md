@@ -50,9 +50,10 @@ No. of Cases (US):
 Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
 
 
+Flattening the Curve:
+- [Why Outbreaks Spread Exponentially, and how to "Flatten the Curve"](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
 Historical Resources:  
-
 - [Influenza Archive - Spanish Flu 1918](https://www.influenzaarchive.org/)
 
 
