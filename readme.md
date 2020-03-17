@@ -25,6 +25,8 @@ No. of Cases (Canada):
 2020-03-14: 193  
 2020-03-15: 252  
 2020-03-16: 339  
+2020-03-17: 439  
+
 
 No. of Cases (US):
 
@@ -43,6 +45,8 @@ No. of Cases (US):
 2020-03-14: 2174  
 2020-03-15: 2952  
 2020-03-16: 3774  
+2020-03-17: 4661  
+
 
 No. of Cases (Mexico):  
 2020-03-15: 41 (Mexico held large [music festival](https://apnews.com/96c71c1f4bd4c202d1d06e00b9f36d51) on the 14th)  
@@ -61,3 +65,6 @@ Historical Resources:
 
 Ways to Spend the Time:
 - [Berliner Philharmoniker - Digital Concert Hall: Free Digital Concerts](https://www.digitalconcerthall.com)
+- [Arts and Culture - Visit Hundreds of Museums and Galleries](https://artsandculture.google.com/partner?hl=en)
+- [Monterey Bay Aquarium - web cam](https://www.montereybayaquarium.org/animals/live-cams)
+- [Georgia Aquarium - web cam](https://www.georgiaaquarium.org/webcam/ocean-voyager/)
