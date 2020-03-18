@@ -5,7 +5,6 @@ Additional sources:
 - who.int
 
 No. of Cases (Canada):  
-
 2020-02-27: 15  
 2020-02-28: 15  
 2020-02-29: 20  
@@ -26,10 +25,10 @@ No. of Cases (Canada):
 2020-03-15: 252  
 2020-03-16: 339  
 2020-03-17: 439  
+2020-03-18: 598  
 
 
 No. of Cases (US):
-
 2020-03-02: 102  
 2020-03-03: 121  
 2020-03-04: 153    
@@ -46,14 +45,14 @@ No. of Cases (US):
 2020-03-15: 2952  
 2020-03-16: 3774  
 2020-03-17: 4661  
+2020-03-18: 6496  
 
 
 No. of Cases (Mexico):  
 2020-03-15: 41 (Mexico held large [music festival](https://apnews.com/96c71c1f4bd4c202d1d06e00b9f36d51) on the 14th)  
 2020-03-16: 43  
 2020-03-17: 82  
-
-
+2020-03-18: 93  
 
 Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
 
