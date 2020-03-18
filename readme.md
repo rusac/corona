@@ -19,12 +19,12 @@ No. of Cases (Canada):
 2020-03-09: 76    
 2020-03-10: 79    
 2020-03-11: 101  
-2020-03-12: 117  
+2020-03-12: 117  (*Ontario public schools to be closed for two weeks after March Break, Mar 23 - Apr 3*)  
 2020-03-13: 158   
 2020-03-14: 193  
 2020-03-15: 252  
 2020-03-16: 339  
-2020-03-17: 439  (Ontario declares state of emergency: gatherings of over 50 people prohibited, restaurants and bars to close)  
+2020-03-17: 439  (*Ontario declares state of emergency: gatherings of over 50 people prohibited, restaurants and bars to close*)  
 2020-03-18: 598  
 
 
