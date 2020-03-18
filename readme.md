@@ -24,7 +24,7 @@ No. of Cases (Canada):
 2020-03-14: 193  
 2020-03-15: 252  
 2020-03-16: 339  
-2020-03-17: 439  (Ontario declares state of emergency: gatherings of over 50 people prohibited, restaurants and bars to close)
+2020-03-17: 439  (Ontario declares state of emergency: gatherings of over 50 people prohibited, restaurants and bars to close)  
 2020-03-18: 598  
 
 
