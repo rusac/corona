@@ -65,7 +65,9 @@ Historical Resources:
 - [Influenza Archive - Spanish Flu 1918](https://www.influenzaarchive.org/)
 
 Ways to Spend the Time:
+- [Metropolitan Opera Streaming](https://www.metopera.org/)
 - [Berliner Philharmoniker - Digital Concert Hall: Free Digital Concerts](https://www.digitalconcerthall.com)
+- [Seattle Symphony - Streaming Concerts](https://seattlesymphony.org/live)
 - [Arts and Culture - Visit Hundreds of Museums and Galleries](https://artsandculture.google.com/partner?hl=en)
 - [Monterey Bay Aquarium - web cam](https://www.montereybayaquarium.org/animals/live-cams)
 - [Georgia Aquarium - web cam](https://www.georgiaaquarium.org/webcam/ocean-voyager/)
