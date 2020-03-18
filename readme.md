@@ -24,7 +24,7 @@ No. of Cases (Canada):
 2020-03-14: 193  
 2020-03-15: 252  
 2020-03-16: 339  
-2020-03-17: 439  (*Ontario declares state of emergency: gatherings of over 50 people prohibited, restaurants and bars to close*)  
+2020-03-17: 439  (*Ont. declares state of emergency: gatherings of over 50 ppl prohibited, restaurants and bars to close*)  
 2020-03-18: 598  
 
 
@@ -49,7 +49,7 @@ No. of Cases (US):
 
 
 No. of Cases (Mexico):  
-2020-03-15: 41 (Mexico held large [music festival](https://apnews.com/96c71c1f4bd4c202d1d06e00b9f36d51) on the 14th)  
+2020-03-15: 41 (*Mexico held large [music festival](https://apnews.com/96c71c1f4bd4c202d1d06e00b9f36d51) on the 14th*)  
 2020-03-16: 43  
 2020-03-17: 82  
 2020-03-18: 93  
