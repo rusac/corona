@@ -56,6 +56,11 @@ No. of Cases (Mexico):
 
 Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
 
+Public Health Resources:
+- [Canada Public Health](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
+- [Ontario Public Health](https://www.ontario.ca/page/2019-novel-coronavirus)
+- [Toronto Public Health](https://www.toronto.ca/city-government/accountability-operations-customer-service/city-administration/staff-directory-divisions-and-customer-service/toronto-public-health/)
+- [Peel Public Health](https://www.peelregion.ca/coronavirus/)
 
 Flattening the Curve:
 - [Why Outbreaks Spread Exponentially, and how to "Flatten the Curve"](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
