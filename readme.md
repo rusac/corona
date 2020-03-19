@@ -59,7 +59,7 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 Public Health Resources:
 - [Canada Public Health](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 - [Ontario Public Health](https://www.ontario.ca/page/2019-novel-coronavirus)
-- [Toronto Public Health](https://www.toronto.ca/city-government/accountability-operations-customer-service/city-administration/staff-directory-divisions-and-customer-service/toronto-public-health/)
+- [Toronto Public Health](https://www.toronto.ca/home/covid-19/)
 - [Peel Public Health](https://www.peelregion.ca/coronavirus/)
 
 Flattening the Curve:
