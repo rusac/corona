@@ -27,6 +27,7 @@ No. of Cases (Canada):
 2020-03-17: 439  (*Ont. declares state of emergency: gatherings of over 50 ppl prohibited, restaurants and bars to close*)  
 2020-03-18: 598  
 2020-03-19: 727  
+2020-03-20: 872  
 
 
 No. of Cases (US):
@@ -48,6 +49,7 @@ No. of Cases (US):
 2020-03-17: 4661  
 2020-03-18: 6496  
 2020-03-19: 9415  
+2020-03-20: 14250  
 
 
 No. of Cases (Mexico):  
@@ -56,6 +58,7 @@ No. of Cases (Mexico):
 2020-03-17: 82  
 2020-03-18: 93  
 2020-03-19: 118  
+2020-03-20: 118  
 
 Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
 
