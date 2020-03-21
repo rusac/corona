@@ -77,7 +77,7 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 - [Why Outbreaks Spread Exponentially, and how to "Flatten the Curve"](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
 ### Historical Resources:  
-- [Influenza Archive - Spanish Flu 1918](https://www.influenzaarchive.org/)
+- [Influenza Archive - Spanish Flu 1918: A historical perspective from cities in the United States](https://www.influenzaarchive.org/)
 
 ### Ways to Spend the Time:
 - [Songbook X - Krisztina Szabó and pianist Chris Foley in livestream concert - ONLY on March 21, 2020, at 8pm](https://tapestryopera.com/performances/songbook-x/)
