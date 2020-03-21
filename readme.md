@@ -75,6 +75,7 @@ Historical Resources:
 - [Influenza Archive - Spanish Flu 1918](https://www.influenzaarchive.org/)
 
 Ways to Spend the Time:
+- [Songbook X - Krisztina Szabó and pianist Chris Foley in livestream concert - ONLY on March 21, 2020](https://tapestryopera.com/performances/songbook-x/)
 - [Metropolitan Opera Streaming](https://www.metopera.org/)
 - [Berliner Philharmoniker - Digital Concert Hall: Free Digital Concerts](https://www.digitalconcerthall.com)
 - [Seattle Symphony - Streaming Concerts](https://seattlesymphony.org/live)
