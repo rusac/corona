@@ -1,8 +1,10 @@
-Source: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+Source:  
+[John Hopkins Global Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 Additional sources:
-- https://www.worldometers.info/coronavirus/  
-- who.int
+- [Worldometers.info](https://www.worldometers.info/coronavirus/  )
+- [World Health Organization](www.who.int)
+- [Global research on Covid19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
 
 No. of Cases (Canada):  
 2020-02-27: 15  
