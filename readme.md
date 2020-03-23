@@ -32,6 +32,7 @@ No. of Cases (Canada):
 2020-03-20: 872  
 2020-03-21: 1085  
 2020-03-22: 1328  
+2020-03-23: 1482  
 
 
 No. of Cases (US):
@@ -55,7 +56,8 @@ No. of Cases (US):
 2020-03-19: 9415  
 2020-03-20: 14250  
 2020-03-21: 19624  
-2020-03-22: 26747
+2020-03-22: 26747  
+2020-03-23: 35530  
 
 
 No. of Cases (Mexico):  
@@ -67,6 +69,7 @@ No. of Cases (Mexico):
 2020-03-20: 118  
 2020-03-21: 203  
 2020-03-22: 251  
+2020-03-23: 316  
 
 Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
 
