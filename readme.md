@@ -94,3 +94,4 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 - [Arts and Culture - Visit Hundreds of Museums and Galleries](https://artsandculture.google.com/partner?hl=en)
 - [Monterey Bay Aquarium - web cam](https://www.montereybayaquarium.org/animals/live-cams)
 - [Georgia Aquarium - web cam](https://www.georgiaaquarium.org/webcam/ocean-voyager/)
+- [Sir Patrick Stewart reads a sonnet a day](https://www.instagram.com/tv/B-F2tGth-ki/?igshid=tmnb1b3bogev)
