@@ -25,16 +25,17 @@ No. of Cases (Canada):
 2020-03-13: 158   
 2020-03-14: 193  
 2020-03-15: 252  
-2020-03-16: 339  
+2020-03-16: 339  (March break begins)
 2020-03-17: 439  (*Ont. declares state of emergency: gatherings of over 50 ppl prohibited, restaurants and bars to close*)  
 2020-03-18: 598  
 2020-03-19: 727  
-2020-03-20: 872  
+2020-03-20: 872  (March break ends)
 2020-03-21: 1085  
 2020-03-22: 1328  
 2020-03-23: 1482  
 2020-03-24: 2088  
 2020-03-25: 2792  
+2020-03-26: 3404  
 
 
 No. of Cases (US):
@@ -62,6 +63,7 @@ No. of Cases (US):
 2020-03-23: 35530  
 2020-03-24: 46450  
 2020-03-25: 55225  
+2020-03-26: 67197  
 
 
 No. of Cases (Mexico):  
@@ -76,6 +78,7 @@ No. of Cases (Mexico):
 2020-03-23: 316  
 2020-03-24: 367  
 2020-03-25: 405  
+2020-03-26: 475  
 
 Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
 
