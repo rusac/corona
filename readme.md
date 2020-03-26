@@ -91,6 +91,9 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 ### Flattening the Curve:
 - [Why Outbreaks Spread Exponentially, and how to "Flatten the Curve"](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
+### John Hopkins online course on epidemiology:
+- [Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out - short course, begins March 31](https://www.coursera.org/learn/covid19-epidemiology)
+
 ### Historical Resources:  
 - [Influenza Archive - Spanish Flu 1918: A historical perspective from cities in the United States](https://www.influenzaarchive.org/)
 
