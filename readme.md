@@ -36,7 +36,8 @@ No. of Cases (Canada):
 2020-03-24: 2088  
 2020-03-25: 2792  
 2020-03-26: 3404  
-2020-03-27: 4046  
+2020-03-27: 4046  (Ontario issues emergency alert warning "Travelers returning to Ontario" to stay home)  
+2020-03-28: 4760  
 
 
 No. of Cases (US):
@@ -66,6 +67,7 @@ No. of Cases (US):
 2020-03-25: 55225  
 2020-03-26: 67197  
 2020-03-27: 85996  
+2020-03-28: 104837  
 
 
 No. of Cases (Mexico):  
@@ -82,6 +84,7 @@ No. of Cases (Mexico):
 2020-03-25: 405  
 2020-03-26: 475  
 2020-03-27: 585  
+2020-03-28: 717  
 
 Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
 
