@@ -5,6 +5,7 @@ Additional sources:
 - [Worldometers.info](https://www.worldometers.info/coronavirus/  )
 - [World Health Organization](www.who.int)
 - [Global research on Covid19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
+- [Ontario Confirmed Cases data set](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario)
 
 No. of Cases (Canada):  
 2020-02-27: 15  
