@@ -45,6 +45,7 @@ No. of Cases (Canada):
 2020-04-01: 8591  
 2020-04-02: 9731  
 2020-04-03: 11284  
+2020-04-04: 12545  
 
 
 No. of Cases (US):
@@ -81,6 +82,7 @@ No. of Cases (US):
 2020-04-01: 189633  
 2020-04-02: 216722  
 2020-04-03: 245658  
+2020-04-04: 278568  
 
 
 No. of Cases (Mexico):  
@@ -104,6 +106,7 @@ No. of Cases (Mexico):
 2020-04-01: 1215  
 2020-04-02: 1378  
 2020-04-03: 1510  
+2020-04-04: 1688  
 
 
 Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
@@ -136,6 +139,7 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 - [The Great Toilet Paper Scare of 1973](https://priceonomics.com/the-great-toilet-paper-scare-of-1973/)
 - [Leo Brouwer Guitar Challenge - instagram](https://www.instagram.com/p/B-Ia1gmq78d)
 - [Jelle's Marble Runs: Sand Marble Rally 2019 Race 1](https://www.youtube.com/watch?v=50L9kNODluI)
+- [Board Games Arena - Online Board Games](https://en.boardgamearena.com/join)
 
 ### Gardening:
 - [Beautiful Non-Invasive Plants for your Garden - A Guide for Southern Ontario](https://www.ontarioinvasiveplants.ca/wp-content/uploads/2020/02/GMI-South-_-PDF-_-Edition-3-2020-NEW.pdf)
