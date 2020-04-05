@@ -144,6 +144,9 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 - [Jelle's Marble Runs: Sand Marble Rally 2019 Race 1](https://www.youtube.com/watch?v=50L9kNODluI)
 - [Board Games Arena - Online Board Games](https://en.boardgamearena.com/join)
 - [Air Quality Ontario - statistics](http://www.airqualityontario.com/history/summary.php)
+- [List of online board games](https://sites.google.com/view/virtualhugs/games)
+- [Game - Settlers of Catan](https://catanuniverse.com/en/)
+- [Game - Dominion](https://dominion.games/)
 
 ### Gardening:
 - [Beautiful Non-Invasive Plants for your Garden - A Guide for Southern Ontario](https://www.ontarioinvasiveplants.ca/wp-content/uploads/2020/02/GMI-South-_-PDF-_-Edition-3-2020-NEW.pdf)
