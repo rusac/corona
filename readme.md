@@ -128,6 +128,7 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 
 ### Historical Resources:  
 - [Influenza Archive - Spanish Flu 1918: A historical perspective from cities in the United States](https://www.influenzaarchive.org/)
+- [Why the Second Wave of the 1918 Spanish Flu Was So Deadly](https://www.history.com/news/spanish-flu-second-wave-resurgence)
 
 ### Ways to Spend the Time:
 - [Songbook X - Krisztina Szabó and pianist Chris Foley in livestream concert - ONLY on March 21, 2020, at 8pm](https://tapestryopera.com/performances/songbook-x/)
