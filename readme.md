@@ -152,6 +152,7 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 - [List of online board games](https://sites.google.com/view/virtualhugs/games)
 - [Game - Settlers of Catan](https://catanuniverse.com/en/)
 - [Game - Dominion](https://dominion.games/)
+- [Chess and video chat - testing](https://news.ycombinator.com/item?id=22790728)
 
 ### Gardening:
 - [Beautiful Non-Invasive Plants for your Garden - A Guide for Southern Ontario](https://www.ontarioinvasiveplants.ca/wp-content/uploads/2020/02/GMI-South-_-PDF-_-Edition-3-2020-NEW.pdf)
