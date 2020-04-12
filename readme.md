@@ -175,6 +175,7 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 
 ### Making Bread:
 - [How to make your own yeast for baking](https://www.theverge.com/2020/3/31/21199708/yeast-diy-baking-covid-19-shortage-make-it-yourself-bread)
+- [Bread baking for Beginners XII: Rising a sourdough](https://www.hefe-und-mehr.de/en/2015/05/brotbacken-fr-anfnger-xi-sauerteig-ansetzen/?noredirect=en_GB)
 - [Twitter - making yeast](https://twitter.com/shoelaces3/status/1244252079041974272)
 - [Twitter - I’m in England, in a field of Barley. Today, I’m going to collect wild yeast under that tree back there, and I’m going to show how to feed and grow it until it’s ready to bake with.](https://twitter.com/SeamusBlackley/status/1140945355992965121)
 
