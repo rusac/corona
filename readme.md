@@ -175,6 +175,8 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 
 ### Making Bread:
 - [How to make your own yeast for baking](https://www.theverge.com/2020/3/31/21199708/yeast-diy-baking-covid-19-shortage-make-it-yourself-bread)
+- [Twitter - making yeast](https://twitter.com/shoelaces3/status/1244252079041974272)
+- [Twitter - I’m in England, in a field of Barley. Today, I’m going to collect wild yeast under that tree back there, and I’m going to show how to feed and grow it until it’s ready to bake with.](https://twitter.com/SeamusBlackley/status/1140945355992965121)
 
 ### Gardening:
 - [Beautiful Non-Invasive Plants for your Garden - A Guide for Southern Ontario](https://www.ontarioinvasiveplants.ca/wp-content/uploads/2020/02/GMI-South-_-PDF-_-Edition-3-2020-NEW.pdf)
