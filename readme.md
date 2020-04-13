@@ -175,6 +175,8 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 - [Game - Settlers of Catan](https://catanuniverse.com/en/)
 - [Game - Dominion](https://dominion.games/)
 - [Chess and video chat - testing](https://news.ycombinator.com/item?id=22790728)
+- [Tensegrity, or floating contraption](https://www.reddit.com/r/EngineeringPorn/comments/fzr46r/tensegrity_or_floating_compression/)
+- [Tensegrity table](https://www.reddit.com/r/EngineeringPorn/comments/g05lld/i_built_my_own_tensegrity_table/)
 
 ### Making Bread:
 - [How to make your own yeast for baking](https://www.theverge.com/2020/3/31/21199708/yeast-diy-baking-covid-19-shortage-make-it-yourself-bread)
