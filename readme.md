@@ -54,6 +54,7 @@ No. of Cases (Canada):
 2020-04-10:  -GoodFriday-  
 2020-04-11: 22148  
 2020-04-12: 23316  
+2020-04-13: 24380  
 
 
 No. of Cases (US):
@@ -99,6 +100,7 @@ No. of Cases (US):
 2020-04-10:  -GoodFriday-  
 2020-04-11: 501615  
 2020-04-12: 530006  
+2020-04-13: 557590  
 
 
 
@@ -132,6 +134,7 @@ No. of Cases (Mexico):
 2020-04-10: -  
 2020-04-11: 3844  
 2020-04-12: 4219  
+2020-04-13: 4661  
 
 
 Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
@@ -177,7 +180,6 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 - [How to make your own yeast for baking](https://www.theverge.com/2020/3/31/21199708/yeast-diy-baking-covid-19-shortage-make-it-yourself-bread)
 - [Bread baking for Beginners XII: Rising a sourdough](https://www.hefe-und-mehr.de/en/2015/05/brotbacken-fr-anfnger-xi-sauerteig-ansetzen/?noredirect=en_GB)
 - [Twitter - making yeast](https://twitter.com/shoelaces3/status/1244252079041974272)
-- [Twitter - I’m in England, in a field of Barley. Today, I’m going to collect wild yeast under that tree back there, and I’m going to show how to feed and grow it until it’s ready to bake with.](https://twitter.com/SeamusBlackley/status/1140945355992965121)
 
 ### Gardening:
 - [Beautiful Non-Invasive Plants for your Garden - A Guide for Southern Ontario](https://www.ontarioinvasiveplants.ca/wp-content/uploads/2020/02/GMI-South-_-PDF-_-Edition-3-2020-NEW.pdf)
