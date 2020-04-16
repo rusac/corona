@@ -189,6 +189,8 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 - [Tensegrity table](https://www.reddit.com/r/EngineeringPorn/comments/g05lld/i_built_my_own_tensegrity_table/)
 - [Listening to the Gospel of Alfie Solomons...](https://soundcloud.com/legitimatepeakyblinders/alfie-solomons-rant)
 - [Bedtime Story - "Odd Dog Out"](https://www.youtube.com/watch?v=kUayOnHldv0)
+- [Concerts - Pink Floyd, Genesis, Radiohead, etc](https://forums.redflagdeals.com/pink-floyd-radiohead-genesis-other-concerts-streaming-each-week-2368421/)
+- [Concerts - Andrew Lloyd Webber Musicals](https://forums.redflagdeals.com/free-andrew-lloyd-webber-full-musicals-stream-every-friday-2pm-est-2366087/)
 
 ### Making Bread:
 - [How to make your own yeast for baking](https://www.theverge.com/2020/3/31/21199708/yeast-diy-baking-covid-19-shortage-make-it-yourself-bread)
