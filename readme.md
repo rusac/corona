@@ -191,6 +191,7 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 - [Bedtime Story - "Odd Dog Out"](https://www.youtube.com/watch?v=kUayOnHldv0)
 - [Concerts - Pink Floyd, Genesis, Radiohead, etc](https://forums.redflagdeals.com/pink-floyd-radiohead-genesis-other-concerts-streaming-each-week-2368421/)
 - [Concerts - Andrew Lloyd Webber Musicals](https://forums.redflagdeals.com/free-andrew-lloyd-webber-full-musicals-stream-every-friday-2pm-est-2366087/)
+- [Trivia Night - Thursdays at MuskokaBrewery (online through zoom)](https://muskokabrewery.com/stay-at-home-trivia-night/)
 
 ### Making Bread:
 - [How to make your own yeast for baking](https://www.theverge.com/2020/3/31/21199708/yeast-diy-baking-covid-19-shortage-make-it-yourself-bread)
