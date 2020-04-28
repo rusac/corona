@@ -69,6 +69,7 @@ No. of Cases (Canada):
 2020-04-25: 44087  
 2020-04-26: 45521  
 2020-04-27: 47182  
+2020-04-28: 49616  
 
 
 No. of Cases (US):
@@ -129,6 +130,7 @@ No. of Cases (US):
 2020-04-25: 906551  
 2020-04:26: 941628  
 2020-04-27: 972969  
+2020-04-28: 988469  
 
 
 
@@ -177,6 +179,7 @@ No. of Cases (Mexico):
 2020-04-25: 12872  
 2020-04:26: 13842  
 2020-04-27: 14677  
+2020-04-28: 15529
 
 
 Data from 2020-03-13 taken from worldometers.info since JH website not updating on home computer.
