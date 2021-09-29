@@ -252,3 +252,7 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
 
 ### Gardening:
 - [Beautiful Non-Invasive Plants for your Garden - A Guide for Southern Ontario](https://www.ontarioinvasiveplants.ca/wp-content/uploads/2020/02/GMI-South-_-PDF-_-Edition-3-2020-NEW.pdf)
+ 
+ 
+# Disinformation - various:
+- [Troll farms reached 140 million Americans a month on Facebook before 2020 election](https://www.technologyreview.com/2021/09/16/1035851/facebook-troll-farms-report-us-2020-election/)
