@@ -256,3 +256,5 @@ Data from 2020-03-13 taken from worldometers.info since JH website not updating 
  
 # Disinformation - various:
 - [Troll farms reached 140 million Americans a month on Facebook before 2020 election](https://www.technologyreview.com/2021/09/16/1035851/facebook-troll-farms-report-us-2020-election/)
+- [A Game Designer’s Analysis Of QAnon](https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5)
+- [Reality Is Just a Game Now](https://www.thenewatlantis.com/publications/reality-is-just-a-game-now)
